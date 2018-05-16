@@ -1,0 +1,21 @@
+{
+    "name": "zlakomanoff/yii2-relatedentities",
+    "description": "relatedentities",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Zlakomanov Alexander",
+            "email": "zlakomanoff@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "zlakomanoff\\relatedentities\\": ""
+        }
+    }
+}
